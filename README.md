@@ -1,1 +1,1 @@
-# automated-video-annotation-of-objects-in-high-speed-hand-movements
+# Automated Annotation of Object Positions in High-Speed Hand Movements
