@@ -1,1 +1,2 @@
 # Automated Annotation of Object Positions in High-Speed Hand Movements
+This repository provides an automated pipeline for annotating object positions in videos with high-speed hand movements, such as juggling or magic tricks. The pipeline identifies frames where hands reveal the object at the beginning and end of a sequence, determining which hand holds the object in each frame. Using MediaPipe for hand tracking and ViCLIP for object detection, this tool simplifies the annotation process for complex, fast-motion video content.
